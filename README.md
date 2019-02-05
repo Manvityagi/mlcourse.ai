@@ -1,2 +1,3 @@
 
-## [mlcourse.ai](https://mlcourse.ai) 
+## [mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course
+
