@@ -18,3 +18,5 @@
 
 
 _Additional Resources to learn EDA_
+* Articles
+  * [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
