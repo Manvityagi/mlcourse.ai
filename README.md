@@ -19,4 +19,5 @@
 
 _Additional Resources to learn EDA_
 * Articles
+  * [Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
   * [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
