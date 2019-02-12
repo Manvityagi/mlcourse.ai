@@ -33,5 +33,6 @@ _Additional Resources to learn EDA_
   
 * Videos
   * [CS Dojo](https://www.youtube.com/watch?v=a9UrKTVEeZA)
+  * [Sentdex | Data Analysis with Python and Pandas](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
   
  
