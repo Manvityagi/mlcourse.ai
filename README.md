@@ -22,3 +22,4 @@ _Additional Resources to learn EDA_
   * [Quick Crash Course](http://cs231n.github.io/python-numpy-tutorial/)
   * [Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
   * [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
+  * [Dataframe Indexing](https://brohrer.github.io/dataframe_indexing.html)
