@@ -31,4 +31,7 @@ _Additional Resources to learn EDA_
   * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
   * [PyViz: Simplifying the Data Visualisation process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1)
   
- * Videos
+* Videos
+  * [CS Dojo](https://www.youtube.com/watch?v=a9UrKTVEeZA)
+  
+ 
