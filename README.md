@@ -26,3 +26,5 @@ _Additional Resources to learn EDA_
   * [Python Pandas: Tricks & Features You May Not Know](https://realpython.com/python-pandas-tricks/)
   * [Pandas Cheat Sheet](https://www.kdnuggets.com/2017/01/pandas-cheat-sheet.html)
   * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+  * [5 Quick and Easy Data Visualizations in Python ](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+  
