@@ -28,3 +28,5 @@ _Additional Resources to learn EDA_
   * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
   * [5 Quick and Easy Data Visualizations in Python ](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
   * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+  * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
+  
