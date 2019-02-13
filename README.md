@@ -38,4 +38,6 @@ _Additional Resources to learn EDA_
   * [Graphing in Python | Sentdex](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
   * [Python for Data Visualization - using Seaborn](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
   
+  * Documentation
+  
   ---
