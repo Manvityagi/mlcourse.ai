@@ -39,7 +39,7 @@ _Additional Resources to learn EDA_
   * [Python for Data Visualization - using Seaborn](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
   
 * Documentation
-  * []()
+  * [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
   * []()
   * []()
   
