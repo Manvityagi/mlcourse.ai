@@ -40,7 +40,7 @@ _Additional Resources to learn EDA_
   
 * Documentation
   * [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
-  * []()
+  * [Matplotlib](https://matplotlib.org/tutorials/index.html)
   * []()
   
   ---
