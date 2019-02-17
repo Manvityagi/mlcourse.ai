@@ -44,3 +44,4 @@ _Additional Resources to learn EDA_
   * [Seaborn](https://seaborn.pydata.org/)
   
   ---
+##  [Assignment #1](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part1_alice_logistic_regression.ipynb)
