@@ -43,7 +43,8 @@ _Additional Resources to learn EDA_
   * [Matplotlib](https://matplotlib.org/tutorials/index.html)
   * [Seaborn](https://seaborn.pydata.org/)
   
-  ---
+---
+
 ##  [Assignment #2](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part1_alice_logistic_regression.ipynb)
 **Competition 1. User Identification with Logistic Regression**
 
