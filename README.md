@@ -53,3 +53,6 @@ Solving a task of user identification using tracking of his/her visited websites
 My Choice of Algorithm : DecisionTree 
 
 ---
+
+##  [Assignment #3](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part2_medium_beat_baselines.ipynb)
+**Predicting Medium articles popularity with Ridge Regression**
