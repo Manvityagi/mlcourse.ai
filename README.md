@@ -49,5 +49,6 @@ _Additional Resources to learn EDA_
 **Competition 1. User Identification with Logistic Regression**
 
 Solving a task of user identification using tracking of his/her visited websites.
+My Choice of Algorithm : DecisionTree 
 
 ---
