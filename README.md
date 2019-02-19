@@ -56,3 +56,5 @@ My Choice of Algorithm : DecisionTree
 
 ##  [Assignment #3](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part2_medium_beat_baselines.ipynb)
 **Competition 2- Predicting Medium articles popularity with Ridge Regression**
+
+Predicting Medium article popularity based on its features like content, title, author, tags, reading time etc.
