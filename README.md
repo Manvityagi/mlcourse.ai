@@ -58,3 +58,5 @@ My Choice of Algorithm : DecisionTree
 **Competition 2- Predicting Medium articles popularity with Ridge Regression**
 
 Predicting Medium article popularity based on its features like content, title, author, tags, reading time etc.
+
+[All the regressions in the world to try](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
